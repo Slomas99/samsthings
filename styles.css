@@ -1,0 +1,33 @@
+body{
+  background-color: #000009;
+  color: #FFFFFF;
+  margin: 1em 1em 1em 1em;
+  font-size:12px;
+}
+
+.frame{
+  background-color: #0F0F0F;
+  padding: 1.5em 2em 1.5em 2em;
+}
+
+.redText{
+  color: red;
+}
+
+.blueText{
+  color: #078efc;
+}
+
+.greenText{
+  color: #005402;
+}
+
+.yellowText{
+  color: yellow;
+}
+
+.whiteText{
+  color: white;
+}
+
+
