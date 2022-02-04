@@ -38,3 +38,18 @@ img {
   width: auto;
   height: auto;
 }
+
+.projectFrame{
+  margin-bottom: 1em;
+  width: auto;
+  height: auto;
+}
+
+.divfiller{
+    display: block;
+    text-decoration: none;
+    background: #BBBBBB;
+    width: 500px;
+    height:auto;
+    font-weight: bold;
+}
